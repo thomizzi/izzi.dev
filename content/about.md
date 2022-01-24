@@ -2,7 +2,7 @@
 showtoc: false
 hidemeta: true
 ---
-# About me
+# Me
 
 ## TL;DR
 
