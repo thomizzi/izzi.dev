@@ -1,3 +1,7 @@
+---
+showtoc: false
+hidemeta: true
+---
 # About me
 
 ## TL;DR
