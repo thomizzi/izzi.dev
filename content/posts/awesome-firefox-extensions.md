@@ -35,5 +35,5 @@ I thought it would be interesting to list most of the browser extensions that I 
 ## Alternate Player for Twitch.tv
 > Alternate player of live broadcasts for Twitch.tv website.
 
-[Get Redirect AMP to HTML](https://addons.mozilla.org/fr/firefox/addon/twitch_5/)
+[Get Alternate Player for Twitch.tv](https://addons.mozilla.org/fr/firefox/addon/twitch_5/)
 
