@@ -2,6 +2,7 @@
 title: "Awesome Firefox extensions"
 date: 2022-01-22T22:20:16+01:00
 draft: false
+categories : [ "link" ]
 tags : ["Firefox"]
 ---
 
